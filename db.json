@@ -1,0 +1,41 @@
+{
+    "stocks": [
+        {
+            "symbol": "AAPL",
+            "companyName": "Apple Inc.",
+            "latestPrice": 200.23,
+            "change": 2.34,
+            "changePercent": 1.17,
+            "marketCap": 223423432432,
+            "avgTotalVolume": 123423,
+            "week52High": 205.98,
+            "week52Low": 150.23
+        },
+        {
+            "symbol": "GOOGL",
+            "companyName": "Alphabet Inc.",
+            "latestPrice": 1230.56,
+            "change": 20.34,
+            "changePercent": 0.87,
+            "marketCap": 32423432432,
+            "avgTotalVolume": 234323,
+            "week52High": 1250.98,
+            "week52Low": 1100.23
+        },
+      
+        {
+            "symbol": "AMZN",
+            "companyName": "Amazon.com Inc.",
+            "latestPrice": 3230.56,
+            "change": 40.34,
+            "changePercent": 1.17,
+            "marketCap": 42423432432,
+            "avgTotalVolume": 534323,
+            "week52High": 3350.98,
+            "week52Low": 2900.23
+        }
+    ]
+}
+
+
+
